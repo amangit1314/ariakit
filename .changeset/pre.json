@@ -23,6 +23,7 @@
     "popover-state-overlap",
     "popover-state-shift-gutter",
     "popover-state-slide",
+    "select-empty-initial-focus",
     "select-initial-focus",
     "test-strict-mode",
     "utils-boolean-or-callback-generics",

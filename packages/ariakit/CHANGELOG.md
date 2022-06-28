@@ -1,5 +1,11 @@
 # ariakit
 
+## 2.0.0-next.32
+
+### Patch Changes
+
+- Fixed `SelectPopover` not focusing on the base element when there's no selected item. ([#1557](https://github.com/ariakit/ariakit/pull/1557))
+
 ## 2.0.0-next.31
 
 ### Minor Changes
